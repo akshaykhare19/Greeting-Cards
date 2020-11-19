@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wishing Cards</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="nameHint">Enter the name</string>
+    <string name="birthday_card_button">Make Birthday Card</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="birthday_wish">Birthday Wish</string>
+    <string name="make_anniversary_card">Make Anniversary Card</string>
+    <string name="make_new_year_card">Make New Year Card</string>
+    <string name="make_diwali_card">Make Diwali Card</string>
+    <string name="happy_anniversary">Happy Anniversary</string>
+    <string name="happy_new_year">Happy New Year</string>
+    <string name="happy_diwali">Happy Diwali</string>
+    <string name="anniversary_wish">Anniversary Wish</string>
+    <string name="diwali_wish">Diwali Wish</string>
+</resources>
